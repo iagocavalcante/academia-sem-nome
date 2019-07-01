@@ -1,24 +1,24 @@
-# academia-sem-nome
-Repositório da aplicação academia sem nome.
+# Academia ao App Livre
+Repositório da aplicação Academia ao App Livre.
 
-# MACROS
+# FUNCIONALIDADES MACROS
 
-## ACADEMIA
+### ACADEMIA
 
 - crud do exercicio
 - slide de exercicio
 - flip do card
 
-## NUTRICAO
+### NUTRICAO
 - crud plano alimentar
 - crud receita
 
-## PLANO ALIMENTAR
+### PLANO ALIMENTAR
 
 - crud da dieta diária
 
-## DASHBOARD
+### DASHBOARD
 - EVOLUÇÃO DOS EXERICICIOS
 - EVOLUÇÃO DA AVALIAÇÃO FISICA
 
-## AVALIAÇÃO FÍSICA
+### AVALIAÇÃO FÍSICA
